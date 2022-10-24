@@ -5,8 +5,8 @@ go 1.19
 require (
 	github.com/go-chi/chi v4.1.2+incompatible
 	github.com/go-rel/postgres v0.8.0
-	github.com/go-rel/rel v0.38.0
-	github.com/go-rel/reltest v0.10.0
+	github.com/go-rel/rel v0.39.0
+	github.com/go-rel/reltest v0.11.0
 	github.com/goware/cors v1.1.1
 	github.com/lib/pq v1.10.7
 	github.com/stretchr/testify v1.8.0
@@ -19,7 +19,7 @@ require (
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/serenize/snaker v0.0.0-20201027110005-a7ad2135616e // indirect
-	github.com/stretchr/objx v0.4.0 // indirect
+	github.com/stretchr/objx v0.5.0 // indirect
 	go.uber.org/atomic v1.10.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
