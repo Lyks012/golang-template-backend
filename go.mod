@@ -8,7 +8,7 @@ require (
 	github.com/go-rel/rel v0.38.0
 	github.com/go-rel/reltest v0.10.0
 	github.com/goware/cors v1.1.1
-	github.com/lib/pq v1.10.7
+	github.com/lib/pq v1.10.8
 	github.com/stretchr/testify v1.8.0
 	go.uber.org/zap v1.23.0
 )
